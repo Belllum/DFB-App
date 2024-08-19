@@ -19,14 +19,21 @@ Before you begin, ensure you have the following installed on your system:
    git clone https://github.com/Belllum/DFB-App.git
    ```
 2. **Navigate to the project directory:**
+   ```bash
    cd DFB-App
+   ```
 3. **Install dependencies:**
+   ```bash
    npm install
+   ```
 
 ## Running the App
 
 1. **Start the development server**
+   ```bash
    npm start
-
+   ```
 2. **Open your browser and navigate to:**
+   ```bash
    http://localhost:3000
+   ```
